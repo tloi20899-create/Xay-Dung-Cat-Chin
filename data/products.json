@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cement-portland-50kg",
+    "title": "Xi măng Portland 50kg",
+    "price": 120000,
+    "currency": "VND",
+    "image": "/images/cement.jpg",
+    "stock": 200,
+    "description": "Xi măng Portland chất lượng cao, phù hợp xây móng và cấu kiện."
+  },
+  {
+    "id": "sand-river",
+    "title": "Cát xây sạch (t/m3)",
+    "price": 400000,
+    "currency": "VND",
+    "image": "/images/sand.jpg",
+    "stock": 100,
+    "description": "Cát sạch, hạt đều, độ ẩm thấp, phù hợp cho xây tô."
+  },
+  {
+    "id": "brick-red",
+    "title": "Gạch đỏ nung xi măng",
+    "price": 1500,
+    "currency": "VND",
+    "image": "/images/brick.jpg",
+    "stock": 5000,
+    "description": "Gạch nung tiêu chuẩn, kích thước 9x19x9 cm."
+  }
+]
